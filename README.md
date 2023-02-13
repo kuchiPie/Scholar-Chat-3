@@ -1,7 +1,7 @@
 # Scholar-Chat
 ## Deployed at https://scholar-chat-orcid.herokuapp.com/
 
-## Setup
+## Setup for installation
 ```
 npm install
 nodemon backend/server.js
